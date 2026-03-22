@@ -105,7 +105,7 @@ npm start
 
 ## 👨‍💻 Author
 
-* Your Name
+* M. Harshavardhan Rao
 
 ---
 
