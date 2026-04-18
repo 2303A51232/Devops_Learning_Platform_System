@@ -25,6 +25,12 @@ jobs:
           cd backend
           npm install
 
+      # 🧪 Run backend tests (NEW STEP)
+      - name: Run Backend Tests
+        run: |
+          cd backend
+          npm test
+
       # 📦 Install frontend dependencies
       - name: Install Frontend Dependencies
         run: |
